@@ -1,33 +1,47 @@
 {
-    "Whiskys":[
-
-    ],
-    "Outras Bebidas":[
-
-    ],
-    "Charutos":[
-
-    ],
-    "Comidas":[
-
-    ],
-
-    "Categorias":[
-        {
-            "id":1,
-            "nome": "Whiskys"
-        },
-        {
-            "id":2,
-            "nome": "Outras Bebidas"
-        },
-        {
-            "id":3,
-            "nome": "Charutos"
-        },
-        {
-            "id":4,
-            "nome": "Comidas"
-        }
-    ]
+  "Whiskys": [
+    {
+      "Nome": "Ballantine's",
+      "Idade": 12,
+      "Origem": "Escócia",
+      "Foto": "fotoBallantines.jpg",
+      "Preço": 90,
+      "Tamanho": "1000ml",
+      "Estilo": "Blended Scotch",
+      "CategoriaId": 1,
+      "id": 1
+    },
+    {
+      "Nome": "Jack Daniel's Single Barrel",
+      "Idade": 6,
+      "Origem": "Tenesse - Estados Unidos",
+      "Foto": "fotoJDSingleBarrel.jpg",
+      "Preço": 300,
+      "Tamanho": "750ml",
+      "Estilo": "Bourbon",
+      "CategoriaId": 1,
+      "id": 2
+    }
+  ],
+  "Outras Bebidas": [],
+  "Charutos": [],
+  "Comidas": [],
+  "Categorias": [
+    {
+      "id": 1,
+      "nome": "Whiskys"
+    },
+    {
+      "id": 2,
+      "nome": "Outras Bebidas"
+    },
+    {
+      "id": 3,
+      "nome": "Charutos"
+    },
+    {
+      "id": 4,
+      "nome": "Comidas"
+    }
+  ]
 }
