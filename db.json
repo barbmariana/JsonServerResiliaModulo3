@@ -166,8 +166,107 @@
       "id": 15
     }
   ],
+  "Comidas": [
+    {
+      "Nome": "Fish and Chips",
+      "Sobre": "Tradicional prato inglês com batatas e peixe frito.",
+      "Foto": "fotoFishChips.jpg",
+      "Preço": 40,
+      "CategoriaId": 2,
+      "id": 1
+    },
+    {
+      "Nome": "Batatas Bravas",
+      "Sobre": "Batatas fritas com nossa cobertura de queijo especial e pancetta frita.",
+      "Foto": "fotoBatataBrava.jpg",
+      "Preço": 50,
+      "CategoriaId": 2,
+      "id": 2
+    },
+    {
+      "Nome": "Chicken Stew",
+      "Sobre": "A versão européia de nosso ensopado de frango.",
+      "Foto": "fotoStew.jpg",
+      "Preço": 22,
+      "CategoriaId": 2,
+      "id": 3
+    },
+    {
+      "Nome": "Schnitzel",
+      "Sobre": "A versão austríaca de nosso filé a milanesa. Servido com batatas fritas.",
+      "Foto": "fotoSchnitzel.jpg",
+      "Preço": 35,
+      "CategoriaId": 2,
+      "id": 4
+    },
+    {
+      "Nome": "Mediterrâneos",
+      "Sobre": "Tábua de aperitivos com proschiuto, diversos queijos, pães, azeitonas e salames temperados com vinho.",
+      "Foto": "fotoMediterraneos.jpg",
+      "Preço": 50,
+      "CategoriaId": 2,
+      "id": 5
+    }
+  ],
   "Charutos": [],
-  "Comidas": [],
+  "Outras Bebidas": [
+    {
+      "Nome": "Vodka Smirnoff",
+      "Foto": "fotosmirnoff.jpg",
+      "Preço": 60,
+      "Tamanho":"750ml",
+      "CategoriaId": 4
+    },
+    {
+    "Nome": "Gin Taqueray",
+    "Foto": "fotoTaqueray.jpg",
+    "Preço": 120,
+    "Tamanho":"1000ml",
+    "CategoriaId": 4
+    },
+    {
+      "Nome": "Vodka Absolut",
+      "Foto": "fotoAbsolut.jpg",
+      "Preço": 100,
+      "Tamanho":"1000ml",
+      "CategoriaId": 4
+    },
+    {
+    "Nome": "Gin Seagers",
+    "Foto": "fotoSeagers.jpg",
+    "Preço": 50,
+    "Tamanho":"1000ml",
+    "CategoriaId": 4
+    },
+    {
+      "Nome": "Vodka Vorus",
+      "Foto": "fotoVorus.jpg",
+      "Preço": 40,
+      "Tamanho":"1000ml",
+      "CategoriaId": 4
+    },
+  {
+    "Nome": "Vinho Casillero",
+    "Foto": "fotoCasillero.jpg",
+    "Preço": 70,
+    "Tamanho":"750ml",
+    "CategoriaId": 4
+  },
+  {
+    "Nome": "Mixers - Refrigerantes, Sucos e Tônicas",
+    "Foto": "fotoMixers.jpg",
+    "Preço": 7,
+    "Tamanho":"350ml",
+    "CategoriaId": 4
+  },
+  {
+    "Nome": "combo Red Bull - 6 unidades",
+    "Foto": "fotoRedBull.jpg",
+    "Preço": 55,
+    "Tamanho":"350ml",
+    "CategoriaId": 4
+  }
+  ],
   "Categorias": [
     {
       "id": 1,
@@ -175,15 +274,15 @@
     },
     {
       "id": 2,
-      "nome": "Charutos"
+      "nome": "Comidas"
     },
     {
       "id": 3,
-      "nome": "Comidas"
-    }, 
+      "nome": "Charutos"
+    },
     {
-        "id":4,
-        "nome":"Outras Bebidas"
+      "id": 4,
+      "nome": "Outras Bebidas"
     }
   ]
 }
