@@ -175,15 +175,15 @@
     },
     {
       "id": 2,
-      "nome": "Outras Bebidas"
-    },
-    {
-      "id": 3,
       "nome": "Charutos"
     },
     {
-      "id": 4,
+      "id": 3,
       "nome": "Comidas"
+    }, 
+    {
+        "id":4,
+        "nome":"Outras Bebidas"
     }
   ]
 }
