@@ -208,64 +208,105 @@
       "id": 5
     }
   ],
-  "Charutos": [],
-  "Outras Bebidas": [
+  "Charutos": [
+    {
+      "Nome": "Alonso Menendez Robusto",
+      "Origem": "Brasil",
+      "Força": "Suave",
+      "Preço": 35,
+      "CategoriaId": 3,
+      "id": 1
+    },
+    {
+      "Nome": "Hoyo de Monterrey",
+      "Origem": "Cuba",
+      "Força": "Suave",
+      "Preço": 50,
+      "CategoriaId": 3,
+      "id": 2
+    },
+    {
+      "Nome": "Dona Flor Gran Corona",
+      "Origem": "Brasil",
+      "Força": "Suave",
+      "Preço": 90,
+      "CategoriaId": 3,    
+      "id": 3
+    },
+    {
+      "Nome": "Cohiba Esplendido",
+      "Origem": "cuba",
+      "Força": "Médio",
+      "Preço": 350,
+      "CategoriaId": 3,
+      "id": 4
+    },
+    {
+      "Nome": "Ramon Allones Specially Selected",
+      "Origem": "Cuba",
+      "Força": "Médio",
+      "Preço": 130,
+      "CategoriaId": 3,
+      "id": 5
+    }
+  ],
+  "OutrasBebidas": [
     {
       "Nome": "Vodka Smirnoff",
       "Foto": "fotosmirnoff.jpg",
       "Preço": 60,
-      "Tamanho":"750ml",
+      "Tamanho": "750ml",
       "CategoriaId": 4
     },
     {
-    "Nome": "Gin Taqueray",
-    "Foto": "fotoTaqueray.jpg",
-    "Preço": 120,
-    "Tamanho":"1000ml",
-    "CategoriaId": 4
+      "Nome": "Gin Taqueray",
+      "Foto": "fotoTaqueray.jpg",
+      "Preço": 120,
+      "Tamanho": "1000ml",
+      "CategoriaId": 4
     },
     {
       "Nome": "Vodka Absolut",
       "Foto": "fotoAbsolut.jpg",
       "Preço": 100,
-      "Tamanho":"1000ml",
+      "Tamanho": "1000ml",
       "CategoriaId": 4
     },
     {
-    "Nome": "Gin Seagers",
-    "Foto": "fotoSeagers.jpg",
-    "Preço": 50,
-    "Tamanho":"1000ml",
-    "CategoriaId": 4
+      "Nome": "Gin Seagers",
+      "Foto": "fotoSeagers.jpg",
+      "Preço": 50,
+      "Tamanho": "1000ml",
+      "CategoriaId": 4
     },
     {
       "Nome": "Vodka Vorus",
       "Foto": "fotoVorus.jpg",
       "Preço": 40,
-      "Tamanho":"1000ml",
+      "Tamanho": "1000ml",
       "CategoriaId": 4
     },
-  {
-    "Nome": "Vinho Casillero",
-    "Foto": "fotoCasillero.jpg",
-    "Preço": 70,
-    "Tamanho":"750ml",
-    "CategoriaId": 4
-  },
-  {
-    "Nome": "Mixers - Refrigerantes, Sucos e Tônicas",
-    "Foto": "fotoMixers.jpg",
-    "Preço": 7,
-    "Tamanho":"350ml",
-    "CategoriaId": 4
-  },
-  {
-    "Nome": "combo Red Bull - 6 unidades",
-    "Foto": "fotoRedBull.jpg",
-    "Preço": 55,
-    "Tamanho":"350ml",
-    "CategoriaId": 4
-  }
+    {
+      "Nome": "Vinho Casillero",
+      "Foto": "fotoCasillero.jpg",
+      "Preço": 70,
+      "Tamanho": "750ml",
+      "CategoriaId": 4
+    },
+    {
+      "Nome": "Mixers - Refrigerantes, Sucos e Tônicas",
+      "Foto": "fotoMixers.jpg",
+      "Preço": 7,
+      "Tamanho": "350ml",
+      "CategoriaId": 4
+    },
+    {
+      "Nome": "Combo Red Bull - 6 unidades",
+      "Foto": "fotoRedBull.jpg",
+      "Preço": 55,
+      "Tamanho": "350ml",
+      "CategoriaId": 4
+    }
   ],
   "Categorias": [
     {
